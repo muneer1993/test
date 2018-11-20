@@ -1,2 +1,5 @@
 
-HEey its my first file in github.
+Hey its my first file in github.
+
+
+I learnt some thing good regarding GIT.
